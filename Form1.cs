@@ -12,9 +12,13 @@ namespace Patterns
 {
     public partial class Form1 : Form
     {
+        IFileSaver saver = new SaverTXT();
+        Serializator serializator;
         public Form1()
         {
             InitializeComponent();
+            serializator = new Serializator(saver);
+            button1.Click += (s,e) => serializator.Deserialize();
         }
     }
 }

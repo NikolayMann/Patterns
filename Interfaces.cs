@@ -12,4 +12,9 @@ namespace Patterns
         string AnimalName { get; set; }
         string RunMethod { get; }
     }
+
+    public interface IFileSaver
+    {
+        void FileSave(string path, string[] data);
+    }
 }
