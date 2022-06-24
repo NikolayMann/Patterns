@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<StructForXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AnimalType>
+    <string>Not defined</string>
+    <string>Birds</string>
+    <string>Mammals</string>
+  </AnimalType>
+  <AnimalName>
+    <string>Mulya</string>
+    <string>Stas</string>
+    <string>O</string>
+  </AnimalName>
+</StructForXML>

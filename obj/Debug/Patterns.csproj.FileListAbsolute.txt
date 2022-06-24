@@ -6,7 +6,6 @@ C:\Users\Nikolay.DESKTOP-HRLQS2P\source\repos\Patterns\bin\Debug\Patterns.exe
 C:\Users\Nikolay.DESKTOP-HRLQS2P\source\repos\Patterns\bin\Debug\Patterns.pdb
 C:\Users\Nikolay.DESKTOP-HRLQS2P\source\repos\Patterns\obj\Debug\Patterns.exe
 C:\Users\Nikolay.DESKTOP-HRLQS2P\source\repos\Patterns\obj\Debug\Patterns.pdb
-C:\Users\Nikolay.DESKTOP-HRLQS2P\source\repos\Patterns\obj\Debug\Patterns.csprojAssemblyReference.cache
 C:\Users\Коля\Documents\Patterns\bin\Debug\Patterns.exe.config
 C:\Users\Коля\Documents\Patterns\bin\Debug\Patterns.exe
 C:\Users\Коля\Documents\Patterns\bin\Debug\Patterns.pdb
@@ -18,3 +17,5 @@ C:\Users\Коля\Documents\Patterns\obj\Debug\Patterns.csproj.CoreCompileInputs
 C:\Users\Коля\Documents\Patterns\obj\Debug\Patterns.exe
 C:\Users\Коля\Documents\Patterns\obj\Debug\Patterns.pdb
 C:\Users\Коля\Documents\Patterns\obj\Debug\Patterns.Form1.resources
+C:\Users\Nikolay.DESKTOP-HRLQS2P\source\repos\Patterns\obj\Debug\Patterns.Form1.resources
+C:\Users\Nikolay.DESKTOP-HRLQS2P\source\repos\Patterns\obj\Debug\Patterns.csprojAssemblyReference.cache

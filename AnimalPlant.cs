@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Patterns
 {
-    static class AnimalPlant
+    public static class AnimalPlant
     {
         public const string Bird = "Birds"; 
         public const string Mammal = "Mammals"; 

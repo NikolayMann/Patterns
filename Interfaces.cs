@@ -8,6 +8,7 @@ namespace Patterns
 {
     public interface IAbstractAnimal
     {
+        string[] VisitCard { get; }
         string AnimalType { get; }
         string AnimalName { get; set; }
         string RunMethod { get; }
@@ -15,6 +16,7 @@ namespace Patterns
 
     public interface IFileSaver
     {
-        void FileSave(string path, string[] data);
+        void FileSave(string path, List<IAbstractAnimal> data);
+        List<IAbstractAnimal> FileOpen(string filename);
     }
 }

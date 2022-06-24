@@ -1,0 +1,6 @@
+В документе XML (0, 0) присутствует ошибка. 24.06.2022 13:06:41   в System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   в System.Xml.Serialization.XmlSerializer.Deserialize(Stream stream)
+   в Patterns.SaverXML.FileOpen(String filename) в C:\Users\Nikolay.DESKTOP-HRLQS2P\source\repos\Patterns\Savers.cs:строка 47
+
+   в Patterns.SaverXML.FileSave(String path, List`1 data) в C:\Users\Nikolay.DESKTOP-HRLQS2P\source\repos\Patterns\Savers.cs:строка 33
+   в Patterns.Serializator.Serialize(String path, List`1 data_strings) в C:\Users\Nikolay.DESKTOP-HRLQS2P\source\repos\Patterns\Serializator.cs:строка 28
